@@ -1,2 +1,42 @@
-[{id:1, pregunta : "Un cliente solicita un informe que resume la funcionalidad añadida y los defectos encontrados y fijo, justo al final de un Sprint. Quién mejor puede preparar este informe?	", opcion1: "a. El Equipo de Desarrollo	", opcion2: "b. El propietario del producto", opcion3: "El Scrum Master", opcion4: "Este tipo de informe no se debe preparar", respuesta: "3", justificacion: "la 3"},																		
-{id:2, pregunta : "¿Qué es una afirmación del manifiesto ágil? Seleccione una", opcion1:"a. Valoramos software que trabaja sobre una amplia documentación.", opcion2: "	b. Valoramos los procesos y herramientas sobre los individuos y la interacción.	", opcion3: "c. Valoramos siguiendo un plan sobre la respuesta al cambio.", opcion4:"d. Valoramos la negociación del contrato sobre la colaboración del cliente.", respuesta: "1", justificacion: "la 1"}]																		
+[
+    {
+      id:'1',
+      pregunta: "esta es la pregunta 1 con respuesta correcta en 1",
+      opcion1: "esta es la opcion 1",
+      opcion2: "esta es la opcion2",
+      opcion3: "esta es la opcion3",
+      opcion4: "esta es la opcion4",
+      respuesta: 1,
+      justificacion:" la justificaciones es la respuesta numero 1"
+     },
+     {
+      id:'2',
+      pregunta: "esta es la pregunta 2 con respuesta correcta en 2",
+      opcion1: "esta es la opcion 1",
+      opcion2: "esta es la opcion2",
+      opcion3: "esta es la opcion3",
+      opcion4: "esta es la opcion4",
+      respuesta: 2,
+      justificacion:" la justificaciones es la respuesta numero 2"
+     },
+
+     {
+      id:'3',
+      pregunta: "esta es la pregunta 3 con respuesta correcta en 3",
+      opcion1: "esta es la opcion 1",
+      opcion2: "esta es la opcion2",
+      opcion3: "esta es la opcion3",
+      opcion4: "esta es la opcion4",
+      respuesta: 3,
+      justificacion:" la justificaciones es la respuesta numero 3"
+     }, 
+     {
+      id:'4',
+      pregunta: "esta es la pregunta 4 con respuesta correcta en 4",
+      opcion1: "esta es la opcion 1",
+      opcion2: "esta es la opcion2",
+      opcion3: "esta es la opcion3",
+      opcion4: "esta es la opcion4",
+      respuesta: 4,
+      justificacion:" la justificaciones es la respuesta numero 4"
+     }
