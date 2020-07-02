@@ -1,7 +1,7 @@
 [
     {
       "id":"1",
-      "pregunta": "esta es la pregunta 1 con respuesta correcta en 1 del service",
+      "pregunta": "esta es la pregunta 1  con respuesta correcta en 1 del service",
       "opcion1": "esta es la opcion 1",
       "opcion2": "esta es la opcion2",
       "opcion3": "esta es la opcion3",
